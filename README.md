@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imshradha](https://github.com/imshradha)
 
-- 💬 Ask me about **React,Javascript,HTML,CSS,NodeJS,MongoDB**
+- 💬 Ask me about **ReactJS,Javascript,HTML,CSS,NodeJS,MongoDB**
 
 - 📫 How to reach me **shraddha824swan@gmail.com**
 
